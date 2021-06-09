@@ -1,2 +1,2 @@
-# Viesnica__Figma_to_html
+# Viesnīca (Figma to Html)
 Autori: Nikita Palcevskis, Kristaps Fedosejevs, Karlis Melngailis
